@@ -9,8 +9,8 @@ class App extends Component {
     return (
       <div className="App">
         <SendMessage />
-        <Card1 className={"card"} />
-        <Card2 className={"card"} />
+        <Card1 />
+        <Card2 />
       </div>
     );
   }
